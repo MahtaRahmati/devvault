@@ -1,0 +1,24 @@
+Project 3/6: DevVault — Developer Snippet & Knowledge Manager
+
+• Create, edit, duplicate, favorite, tag, search, and delete code snippets and notes.
+• Language-aware syntax highlighting, keyboard shortcuts, local persistence, and copy/download actions.
+• Validated JSON backup import/export with duplicate-ID protection.
+
+Stack: JavaScript, HTML, CSS, browser APIs.
+Includes automated tests for the core logic.
+
+Source code and setup: https://github.com/MahtaRahmati/devvault
+
+Feedback and code reviews are welcome.
+
+#JavaScript #DeveloperTools #Productivity #WebDevelopment
+
+────────────
+
+پروژهٔ 3 از ۶: DevVault
+
+کتابخانهٔ کد و یادداشت با جست‌وجو، برچسب، علاقه‌مندی، نمایش رنگی کد و پشتیبان‌گیری JSON.
+
+این نسخه با JavaScript، HTML و CSS ساخته شده و در مرورگر اجرا می‌شود.
+
+کد و راهنمای اجرا: https://github.com/MahtaRahmati/devvault

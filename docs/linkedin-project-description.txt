@@ -1,0 +1,12 @@
+Create, edit, duplicate, favorite, tag, search, and delete code snippets and notes.
+
+Language-aware syntax highlighting, keyboard shortcuts, local persistence, and copy/download actions.
+
+Validated JSON backup import/export with duplicate-ID protection.
+
+Stack: JavaScript, HTML, CSS, browser APIs.
+
+GitHub: https://github.com/MahtaRahmati/devvault
+
+فارسی:
+کتابخانهٔ کد و یادداشت با جست‌وجو، برچسب، علاقه‌مندی، نمایش رنگی کد و پشتیبان‌گیری JSON.

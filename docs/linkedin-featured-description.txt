@@ -1,0 +1,3 @@
+Create, edit, duplicate, favorite, tag, search, and delete code snippets and notes.
+
+کتابخانهٔ کد و یادداشت با جست‌وجو، برچسب، علاقه‌مندی، نمایش رنگی کد و پشتیبان‌گیری JSON.
